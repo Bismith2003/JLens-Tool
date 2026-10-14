@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller generated files
+build/
+dist/
+*.spec.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated forensic reports
+*_Forensic_Report.pdf
+JL_Forensic_Report.pdf
+
+# Local environment configuration
+.env
+.env.*
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
